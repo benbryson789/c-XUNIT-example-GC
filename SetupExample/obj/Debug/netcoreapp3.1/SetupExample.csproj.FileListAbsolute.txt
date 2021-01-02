@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.exe
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.deps.json
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.dll
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\bin\Debug\netcoreapp3.1\SetupExample.pdb
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.dll
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.pdb
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.genruntimeconfig.cache
+C:\Users\debra_2qm34gh\source\repos\SetupExample\SetupExample\obj\Debug\netcoreapp3.1\SetupExample.csprojAssemblyReference.cache
